@@ -2,7 +2,7 @@
 
 **Status:** 0.6 Draft 
 
-**Contributors: **
+**Contributors:**
 
 * Alasdair Gray, Heriot-Watt University, Edinburgh, UK
 
@@ -18,7 +18,24 @@
 
 **Table of Contents**
 
-[[TOC]]
+- [Overview](#overview)
+- [Steering Council](#steering-council)
+- [Community and Working Groups](#community-and-working-groups)
+  - [Creation of a Working Group](#creation-of-a-working-group)
+  - [Hibernation of a Working Group](#hibernation-of-a-working-group)
+  - [Renaming a Working Group](#renaming-a-working-group)
+  - [Returning a Working Group to Activity](#returning-a-working-group-to-activity)
+  - [Working Group Membership](#working-group-membership)
+- [Role Holder Appointment Process](#role-holder-appointment-process)
+- [Role Holder Removal Process](#role-holder-removal-process)
+- [Specification Development](#specification-development)
+  - [Specification Versioning](#specification-versioning)
+  - [Specification Authorship](#specification-authorship)
+  - [Profile Development](#profile-development)
+  - [Type Development](#type-development)
+- [Changing the Governance Documents](#changing-the-governance-documents)
+- [Sources](#sources)
+- [Version History](#version-history)
 
 ## Overview
 
@@ -132,7 +149,7 @@ The creation of a working group needs to be approved by the Steering Council. Th
 
 Working Group Leads are agreed upon by the members of the working group using the processes defined in the [Role Holder Section](#heading=h.n3000j53zrj0).
 
-### Hibernation of Working Groups
+### Hibernation of a Working Group
 
 Working Group Leads can nominate their group for hibernation by contacting the Steering Council Chair with details of how they have completed their work. It would be expected that all profiles had reached a release status or been deprecated, i.e. none in a draft state, and that all issues in the tracker had been closed. Upon a Steering Council vote, the group would be placed into hibernation with the expectation that if new issues were raised that the group could be reconvened. If the Steering Council decides that a group should not be put into hibernation then a suitable action plan with the Working Group Leads or other members of the community needs to be put into place.
 
