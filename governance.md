@@ -1,4 +1,4 @@
-Bioschemas Governance
+# Bioschemas Governance
 
 **Status:** 0.6 Draft 
 
@@ -20,7 +20,7 @@ Bioschemas Governance
 
 [[TOC]]
 
-# Overview
+## Overview
 
 The Bioschemas Community adheres to the 5 core principles of [OpenStand](https://open-stand.org) ([infographic](https://open-stand.org/infographic-the-5-core-principles-of-openstand/)):
 
@@ -46,7 +46,7 @@ The Bioschemas Community adheres to the 5 core principles of [OpenStand](https:/
 
 Bioschemas community members are expected to adhere to our [Code of Conduct](https://github.com/BioSchemas/governance/blob/master/codeOfConduct.md) at all events, telephone conferences, and other interactions. These are based on the FORCE11 [Code of Conduct](https://www.force11.org/code-conduct).
 
-# Steering Council
+## Steering Council
 
 The Bioschemas Steering Council is responsible for strategic and organisational planning, high-level oversight of community activities, including the approval and monitoring of profiles, types, and working groups, and promoting Bioschemas activities, as well as protecting its public image and reputation. Members of the Steering Council also serve as advocates and ambassadors for Bioschemas, leveraging their networks to benefit the community’s reputation and extending its impact. The Steering Council executes these responsibilities through a combination of telephone meetings every two months, regular correspondence and collaboration via email, and through online direct messaging platforms.
 
@@ -104,7 +104,7 @@ The Steering Council representatives take on the following roles associated with
 
 See the [Role Holder Section](#heading=h.n3000j53zrj0) for the processes to add and remove members of the Steering Council.
 
-# Community and Working Groups
+## Community and Working Groups
 
 The community conducts the day-to-day activities for Bioschemas, namely, profile and type development and adoption according to the processes defined by the Bioschemas Community (see [Specification Development](#heading=h.jwagq5rseict)). This community work is split across working groups, each with a specific focus and each led by two individuals from the community. Working groups are a group of individuals who coalesce around an identified need to exploit Bioschemas markup. The working group establishes markup practices for a particular concept, e.g. Gene or Protein, under the umbrella Bioschemas community. The Working Group Leads are agreed upon by the members of that particular group of individuals. Each working group prepares releases of the profiles and types under its remit for the approval of the Steering Council.
 
@@ -118,7 +118,7 @@ The Working Group Leads are responsible for overseeing the work of the group and
 
 See the [Role Holder Section](#heading=h.n3000j53zrj0) for the processes to add and remove a Working Group Lead.
 
-## Creation of a Working Group
+### Creation of a Working Group
 
 A Working Group may be established when a group of individuals identify a perceived need for consuming mark up for a Life Sciences resource that is not satisfied using existing Bioschemas profiles. 
 
@@ -132,7 +132,7 @@ The creation of a working group needs to be approved by the Steering Council. Th
 
 Working Group Leads are agreed upon by the members of the working group using the processes defined in the [Role Holder Section](#heading=h.n3000j53zrj0).
 
-## Hibernation of Working Groups
+### Hibernation of Working Groups
 
 Working Group Leads can nominate their group for hibernation by contacting the Steering Council Chair with details of how they have completed their work. It would be expected that all profiles had reached a release status or been deprecated, i.e. none in a draft state, and that all issues in the tracker had been closed. Upon a Steering Council vote, the group would be placed into hibernation with the expectation that if new issues were raised that the group could be reconvened. If the Steering Council decides that a group should not be put into hibernation then a suitable action plan with the Working Group Leads or other members of the community needs to be put into place.
 
@@ -140,15 +140,15 @@ The Steering Council can also consider for hibernation working groups that have 
 
 Upon hibernating a working group, the Steering Council will consider whether the profiles developed by the group should be deprecated (see [Deprecating a Profile](#heading=h.ipd8q1hfpsr7)), typically this will apply to any profile that is in draft form but has not been released, and closing all outstanding issues.
 
-## Renaming a Working Group
+### Renaming a Working Group
 
 If a working group decides that they should be renamed, they should inform the Steering Council Chair and provide motivation for the name change. The Steering Council will consider the request and vote on the decision. They will then inform the Working Group Leads of the outcome. If approved, the name change will be reflected on the Bioschemas website, with a suitable redirection setup from the old group page.
 
-## Returning a Working Group to Activity
+### Returning a Working Group to Activity
 
 Working groups that are in hibernation can return to activity. To do so, either the existing Working Group Leads or members of the community who are willing to take on the role of Working Group Lead, must contact the Steering Council Chair with a plan for the working group activity. The plan should outline the need for the working group to return to activity, propose members of the community who will carry out the work, and a timetable for the work. The group can be reinstated upon a vote of the Steering Council.
 
-## Working Group Membership
+### Working Group Membership
 
 Bioschemas is an open community to which anyone may provide input to any working group. The working group web page will list those members who are currently active in the discussions and work of the group. 
 
@@ -156,13 +156,13 @@ The group page can also contain a list of former group members, i.e. those who h
 
 Appeals for inclusion where someone feels they have been overlooked should go to the Steering Council Chair, who shall have the final decision in cases of disagreement with the Working Group Leads.
 
-# Role Holder Appointment Process
+## Role Holder Appointment Process
 
 Steering Council ‘Role Holders’ and Working Group Leads are elected positions, with a 2 year term of service. Incumbents may continue in post if successfully reelected and may resign from post with a three month service period. 
 
 Three months prior to the end of a term, any open  position will be advertised through the Bioschemas mailing list with a 4 week period for candidates to put themselves forward. Candidates must already be involved in the Bioschemas community at the time a role becomes available. Elections will be carried out through an appropriate poll system with details distributed through the Bisochemas mailing list. The poll will remain open for two weeks, and the results will be ratified by the Steering Council and subsequently announced through the Bioschemas mailing list and website. The new role holder takes over the position at the end of the previous holder’s term of office, or earlier if mutually agreed.
 
-# Role Holder Removal Process
+## Role Holder Removal Process
 
 If a role holder (Steering Council member or Working Group Lead) becomes inactive in their role for a period of 6 months, they will be considered for removal from that role. Inactivity may be indicated by a lack of profile or type development or discussion, for instance, evidenced by a lack of traceable activity (email, tracker updates, commits, etc.). Indicators of inactivity should be reported to any member of the Steering Council for escalation to the Chair. Before removal, the inactive member will be approached by the Steering Council Chair to see if they plan to return to active participation. If not, they will be removed immediately upon a Steering Council vote. If they plan on returning to active participation within a reasonable timeframe (as determined by the Steering Council), they will be given a grace period of 3 months. If they don’t return to active participation within that time period, they will be removed by a vote of the Steering Council without further consultation.
 
@@ -174,7 +174,7 @@ All former role holders can be considered for membership again at any time in th
 
 The Steering Council reserves the right to eject current role holders if they are deemed to be acting in a manner deemed to be detrimental to the community’s well-being or reputation, and where attempts at communication and conflict resolution have failed.
 
-# Specification Development
+## Specification Development
 
 Within the Bioschemas community the term specification refers to either a profile or a type. These are developed within the remit of a working group according to the governance structures outlined here.
 
@@ -184,7 +184,7 @@ The development of a specification should be a collaborative effort engaging wit
 
 A specification version number consists of the following parts, with hyphens between the parts:
 
-<major-number>.<minor-number>-[DRAFT|RELEASE]-<yyyy>_<mm>_<dd>
+`<major-number>.<minor-number>-[DRAFT|RELEASE]-<yyyy>_<mm>_<dd>`
 
 Each time a specification (profile or type) is published to the Bioschemas website, it must have a unique version number, a designation of whether it is a draft or release version, and the date of the version is published encoded as the four digit year, underscore, two digit month, underscore, two digit day. 
 
@@ -198,7 +198,7 @@ The acknowledgement of contributions to a specification will be recognised on th
 
 Contributors include, but are not limited to, the members of the group. Those who have been actively involved in the discussions, development and support will also be acknowledged. The decision on whether sufficient contribution has been made for an individual to warrant inclusion in this listing is within the remit of the Working Group Leads. Appeals for inclusion where someone feels they have been overlooked should go to the Steering Council Chair, who shall have the final decision in case of disagreement with the Working Group Leads.
 
-## Profile Development
+### Profile Development
 
 The workflow for the development of a profile is shown in the figure below and outlined in the following text. 
 
@@ -230,7 +230,7 @@ The development steps for a profile are:
 
 For detailed instructions of how to develop and publish a Bioschemas profile, please see the [Profile Development Process page](https://github.com/BioSchemas/specifications/wiki/Bioschemas-Profile-Development-Process) on the [Bioschemas technical wiki](https://github.com/BioSchemas/specifications/wiki). 
 
-### Proposing a New Profile
+#### Proposing a New Profile
 
 New profiles need to be approved by the Steering Council. The Working Group Leads should inform the Steering Council Operation Manager of the newly identified need for a profile based on their working group use cases. The Steering Council will consider this request and inform the Working Group Leads of the outcome which can consist of approving the new profile, rejecting the new profile, asking for revisions, or proposing the development of a new working group.
 
@@ -238,19 +238,19 @@ Note that part of creating a new working group includes approving a set of profi
 
 The Operation Manager will work with the Working Group Leads to create the relevant files for the development of the profile.
 
-### Renaming a Profile
+#### Renaming a Profile
 
 If a working group decides that a profile should be renamed, they should inform the Steering Council Operation Manager and provide motivation for the name change. The Steering Council will consider the request and vote on the decision. They will then inform the Working Group Leads of the outcome.
 
 The existing profile will be deprecated with a link added to the new profile. The new profile will continue the version numbering from the previous name, and include a link back to the deprecated profile.
 
-### Deprecating a Profile
+#### Deprecating a Profile
 
 If a working group decides that a profile is no longer required, e.g. the work undertaken was deemed unsatisfactory, or failed to accomplish the desired objective(s), or has been superceded by some other activity, then the Working Group Leads should inform the Steering Council Operation Manager and include a justification for the Working Group’s decision. The Steering Council will consider the request and vote upon it. They will then inform the Working Group Leads of the outcome.
 
 The Steering Council may also decide that a profile should be deprecated. This will be in the case that there has been no active development in the last 6 months on the draft profile. The Steering Council Operation Manager will contact the Working Group Leads responsible for the profile to see if the group plans to further develop the profile. If there is no plan, then the profile will be deprecated upon a Steering Council vote. If the Working Group plan on returning to developing the profile, they will be given a grace period of 3 months. If no activity is evident, then the profile may be deprecated by vote of the Steering Council without further consultation.
 
-### Releasing a Profile
+#### Releasing a Profile
 
 Changing a profile from draft to release requires a vote of approval by the Steering Council. 
 
@@ -272,19 +272,19 @@ When a working group decides that their draft profile meets these requirements, 
 
 After any issues raised by the Bioschemas community have been addressed, the Steering Council will vote to decide whether to accept the profile for release. If successful, the relevant metadata about the profile status and version number are updated, and the profile published to the release section of the Bioschemas website on the [profiles page](http://bioschemas.org/profiles/), with a release version identifier, i.e. the 0.8-DRAFT would become 1.0 or 1.4-DRAFT would become 2.0.
 
-## Type Development
+### Type Development
 
 The development of a type follows the procedures of the [Schema.org](schema.org) community. 
 
 In the following, the term ‘Bioschemas type’ means a type that is being developed within the Bioschemas community with the aim of integration within the Schema.org vocabulary.
 
-### Editing an Existing Schema.org Type
+#### Editing an Existing Schema.org Type
 
 Adding new properties to existing Schema.org types should be discussed with the Steering Council prior to being carried out following the Schema.org development process, i.e. an issue should be raised on the Schema.org issue tracker and discussions carried out with the wider Schema.org community. 
 
 Adding Bioschemas types in the expected types of existing Schema.org types will be carried out on the inclusion of the Bioschemas type into the Schema.org vocabulary; see [Releasing a Type](#heading=h.yakcmtxgrkm6) for more details.  
 
-### Proposing a New Bioschemas Type
+#### Proposing a New Bioschemas Type
 
 New types need to be approved by the Steering Council. The Working Group Leads will inform the Steering Council Operation Manager of the newly identified need for a type based on their working group use cases, with supporting evidence and documentation. The Steering Council will consider this request and inform the Working Group Leads of the outcome which can consist of approving the new type, suggesting the extension of an existing type, or rejecting the new type.
 
@@ -292,19 +292,19 @@ Note that approval of new types can be granted as part of creating a new working
 
 The Operation Manager will work with the Working Group Leads to create the relevant files for the development of the type.
 
-### Renaming a Bioschemas Type
+#### Renaming a Bioschemas Type
 
 If a working group decides that a type should be renamed, they should inform the Steering Council Operation Manager and provide motivation for the name change. The Steering Council will consider the request and vote on the decision. They will inform the Working Group Leads of the outcome.
 
 If successful, the existing type will be deprecated with a link added to the new type. The new type will continue the version numbering from the previous type and include a link back to the deprecated type.
 
-### Deprecating a Type
+#### Deprecating a Type
 
 If a working group decides that a type is no longer required, e.g. the activity did not conclude, then the Working Group Leads should inform the Steering Council Operation Manager and include a justification for the working group’s decision. The Steering Council will consider the request and vote on the request. They will then inform the Working Group Leads of the outcome.
 
 The Steering Council may also decide that a type should be deprecated. This will be in the case that there has been no active development in the last 6 months on the draft type. The Steering Council Operation Manager will contact the Working Group Leads responsible for the type to see if the group plans to further develop the type. If there is no plan, then the type will be deprecated upon a Steering Council vote. If the working group plan on returning to developing the type, they will be given a grace period of 3 months. If no activity is seen, then the type may be deprecated by vote of the Steering Council without further consultation.
 
-### Releasing a Type
+#### Releasing a Type
 
 Changing a type from draft to release requires a vote of approval by the Steering Council. To satisfy the Steering Council, a type must minimally have:
 
@@ -328,11 +328,11 @@ When a working group decides that their draft type meets these requirements, the
 
 After any issues raised by the Bioschemas community have been addressed, the Steering Council will vote to decide whether to accept the type for release. If successful, the relevant metadata about the type status and version number are updated, and the type published to the release section of the Bioschemas website on the [types page](https://bioschemas.org/types/).
 
-# Changing the Governance Documents
+## Changing the Governance Documents
 
 Future changes to these governance documents are to be submitted via a GitHub pull request to the Bioschemas Governance GitHub repository at [https://github.com/bioschemas/governance](https://github.com/bioschemas/governance). The pull request is then refined in response to public comment, open for a minimum of 4 weeks, and review, with the goal being consensus in the Bioschemas community. After this open period, a Steering Council Member proposes to the Steering Council that the changes be ratified and the pull request merged (accepting the proposed changes) or proposes that the pull request be closed without merging (rejecting the proposed changes). The Member should state the final commit hash in the pull request being proposed for acceptance or rejection and briefly summarize the pull request. A minimum of 80% of the Steering Council must vote and at least 2/3 of the votes must be positive to carry out the proposed action (fractions of a vote rounded up to the nearest integer). In exceptional circumstances the Steering Council Chair has authority to act alone in accepting or rejecting changes or overriding Steering Council decisions.
 
-# Sources
+## Sources
 
 FORCE11:
 
@@ -346,7 +346,7 @@ Software Carpentry Governance: [https://carpentries.org/governance/](https://car
 
 W3C Consortium Process Document: [https://www.w3.org/2019/Process-20190301/](https://www.w3.org/2019/Process-20190301/)
 
-# Version History
+## Version History
 
 <table>
   <tr>
