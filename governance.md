@@ -219,7 +219,7 @@ Contributors include, but are not limited to, the members of the group. Those wh
 
 The workflow for the development of a profile is shown in the figure below and outlined in the following text. 
 
-![image alt text](image_0.png)
+![Overview of profile development process](specification_process.png)
 
 The development steps for a profile are:
 
