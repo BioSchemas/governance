@@ -1,6 +1,6 @@
 # Bioschemas Governance
 
-**Status:** 0.6 Draft 
+**Status:** 1.0 (Released) 
 
 **Contributors:**
 
@@ -370,6 +370,11 @@ W3C Consortium Process Document: [https://www.w3.org/2019/Process-20190301/](htt
     <td>Version</td>
     <td>Date</td>
     <td>URL</td>
+  </tr>
+  <tr>
+    <td>0.6</td>
+    <td>2020-03-24</td>
+    <td>https://github.com/BioSchemas/governance/blob/v0.6-draft/governance.md</td>
   </tr>
   <tr>
     <td>0.5</td>
