@@ -127,6 +127,8 @@ See the [Role Holder Section](#heading=h.n3000j53zrj0) for the processes to add 
 
 The community conducts the day-to-day activities for Bioschemas, namely, profile and type development and adoption according to the processes defined by the Bioschemas Community (see [Specification Development](#heading=h.jwagq5rseict)). This community work is split across working groups, each with a specific focus and each led by two individuals from the community. Working groups are a group of individuals who coalesce around an identified need to exploit Bioschemas markup. The working group establishes markup practices for a particular concept, e.g. Gene or Protein, under the umbrella Bioschemas community. The Working Group Leads are agreed upon by the members of that particular group of individuals. Each working group prepares releases of the profiles and types under its remit for the approval of the Steering Council.
 
+Voting on issues in a Working Group will be carried with a simple majority of those members present. In the case of an even split, the Working Group Leads will have a casting vote. If this does not resolve the issue then it should be raised to the Steering Council.
+
 The Working Group Leads are responsible for overseeing the work of the group and take on the editorial roles of the profiles and types within the working group remit. The Working Group are responsible for:
 
 * Development and maintenance of profiles and types within the remit of the working group, as agreed with the Steering Council;
