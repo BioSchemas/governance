@@ -65,9 +65,11 @@ Bioschemas community members are expected to adhere to our [Code of Conduct](htt
 
 ## Steering Council
 
-The Bioschemas Steering Council is responsible for strategic and organisational planning, high-level oversight of community activities, including the approval and monitoring of profiles, types, and working groups, and promoting Bioschemas activities, as well as protecting its public image and reputation. Members of the Steering Council also serve as advocates and ambassadors for Bioschemas, leveraging their networks to benefit the community’s reputation and extending its impact. The Steering Council executes these responsibilities through a combination of telephone meetings every two months, regular correspondence and collaboration via email, and through online direct messaging platforms.
+The Bioschemas Steering Council is responsible for strategic and organisational planning, high-level oversight of community activities, including the approval and monitoring of profiles, types, and working groups, and promoting Bioschemas activities, as well as protecting its public image and reputation. Members of the Steering Council also serve as advocates and ambassadors for Bioschemas, leveraging their networks to benefit the community’s reputation and extending its impact. The Steering Council executes these responsibilities through a combination of telephone meetings every two months, regular correspondence and collaboration via email, and through online direct messaging platforms. 
 
 The Steering Council will have a minimum of 4 members, one of whom must be the Chair. 
+
+Voting on issues in the Steering Council requires at least 50% of the members of the council to be present and will be carried with a simple majority. In the case of an even split, the Chair will have a casting vote.
 
 The Steering Council representatives take on the following roles associated with steering the community, each with specific, identified responsibilities. Community members who are elected to these roles are expected to provide substantive contributions to the community over the duration of their term. The overall role of the Steering Council is to ensure the long-term stability and growth of the community, and the works that are undertaken.
 
