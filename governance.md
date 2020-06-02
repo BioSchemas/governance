@@ -1,6 +1,6 @@
 # Bioschemas Governance
 
-**Status:** 0.6 Draft 
+**Status:** 1.0 (Released) 
 
 **Contributors:**
 
@@ -47,7 +47,7 @@ The Bioschemas Community adheres to the 5 core principles of [OpenStand](https:/
 
 2. Adherence to Fundamental Parameters of Standards Development 
 
-    * Due process: equality and fairness, Broad consensus, Transparency, Balance,  And Openness
+    * Due process: equality and fairness, Broad consensus, Transparency, Balance, And Openness
 
 3. Collective Empowerment
 
@@ -65,11 +65,13 @@ Bioschemas community members are expected to adhere to our [Code of Conduct](htt
 
 ## Steering Council
 
-The Bioschemas Steering Council is responsible for strategic and organisational planning, high-level oversight of community activities, including the approval and monitoring of profiles, types, and working groups, and promoting Bioschemas activities, as well as protecting its public image and reputation. Members of the Steering Council also serve as advocates and ambassadors for Bioschemas, leveraging their networks to benefit the community’s reputation and extending its impact. The Steering Council executes these responsibilities through a combination of telephone meetings every two months, regular correspondence and collaboration via email, and through online direct messaging platforms.
+The Bioschemas Steering Council is responsible for strategic and organisational planning, high-level oversight of community activities, including the approval and monitoring of profiles, types, and working groups, and promoting Bioschemas activities, as well as protecting its public image and reputation. Members of the Steering Council also serve as advocates and ambassadors for Bioschemas, leveraging their networks to benefit the community’s reputation and extending its impact. The Steering Council executes these responsibilities through a combination of telephone meetings every two months, regular correspondence and collaboration via email, and through online direct messaging platforms. 
 
 The Steering Council will have a minimum of 4 members, one of whom must be the Chair. 
 
-The Steering Council representatives take on the following roles associated with steering the community, each with specific, identified responsibilities. Community members who are elected to these roles are expected to provide substantive contributions to the community over the duration of their term. The overall role of the Steering Council is to ensure the long-term stability and growth of the community, and the works that are undertaken.
+Voting on issues in the Steering Council requires at least 50% of the members of the council to be present and will be carried with a simple majority. In the case of an even split, the Chair will have a casting vote.
+
+The Steering Council representatives take on the following roles associated with steering the community, each with specific, identified responsibilities. Community members who are elected to these roles through the processes outlined in the [Role Holder Appointment Process](#role-holder-appointment-process) section are expected to provide substantive contributions to the community over the duration of their term. The overall role of the Steering Council is to ensure the long-term stability and growth of the community, and the works that are undertaken.
 
 * Chair: (strategic oversight)
 
@@ -125,6 +127,8 @@ See the [Role Holder Section](#heading=h.n3000j53zrj0) for the processes to add 
 
 The community conducts the day-to-day activities for Bioschemas, namely, profile and type development and adoption according to the processes defined by the Bioschemas Community (see [Specification Development](#heading=h.jwagq5rseict)). This community work is split across working groups, each with a specific focus and each led by two individuals from the community. Working groups are a group of individuals who coalesce around an identified need to exploit Bioschemas markup. The working group establishes markup practices for a particular concept, e.g. Gene or Protein, under the umbrella Bioschemas community. The Working Group Leads are agreed upon by the members of that particular group of individuals. Each working group prepares releases of the profiles and types under its remit for the approval of the Steering Council.
 
+Voting on issues in a Working Group will be carried with a simple majority of those members present. In the case of an even split, the Working Group Leads will have a casting vote. If this does not resolve the issue then it should be raised to the Steering Council.
+
 The Working Group Leads are responsible for overseeing the work of the group and take on the editorial roles of the profiles and types within the working group remit. The Working Group are responsible for:
 
 * Development and maintenance of profiles and types within the remit of the working group, as agreed with the Steering Council;
@@ -177,7 +181,7 @@ Appeals for inclusion where someone feels they have been overlooked should go to
 
 Steering Council ‘Role Holders’ and Working Group Leads are elected positions, with a 2 year term of service. Incumbents may continue in post if successfully reelected and may resign from post with a three month service period. 
 
-Three months prior to the end of a term, any open  position will be advertised through the Bioschemas mailing list with a 4 week period for candidates to put themselves forward. Candidates must already be involved in the Bioschemas community at the time a role becomes available. Elections will be carried out through an appropriate poll system with details distributed through the Bisochemas mailing list. The poll will remain open for two weeks, and the results will be ratified by the Steering Council and subsequently announced through the Bioschemas mailing list and website. The new role holder takes over the position at the end of the previous holder’s term of office, or earlier if mutually agreed.
+Three months prior to the end of a term, any open 	position will be advertised through the Bioschemas mailing list with a 4 week period for candidates to put themselves forward. Candidates must already be involved in the Bioschemas community at the time a role becomes available. Elections will be carried out through an appropriate poll system with details distributed through the Bisochemas mailing list. The poll will remain open for two weeks, and the results will be ratified by the Steering Council and subsequently announced through the Bioschemas mailing list and website. The new role holder takes over the position at the end of the previous holder’s term of office, or earlier if mutually agreed.
 
 ## Role Holder Removal Process
 
@@ -235,7 +239,7 @@ The development steps for a profile are:
 
     4. Map the property to widely used ontology terms in the domain;
 
-    5. Optionally provide a clarification description of how to use the property within the Life Sciences (NOTE:  Note that this can only narrow the definition within the life sciences community, not redefine the property.).
+    5. Optionally provide a clarification description of how to use the property within the Life Sciences (NOTE: Note that this can only narrow the definition within the life sciences community, not redefine the property.).
 
 3. Ensure that the use case is sufficiently covered, and if required propose new properties for the type;
 
@@ -299,7 +303,7 @@ In the following, the term ‘Bioschemas type’ means a type that is being deve
 
 Adding new properties to existing Schema.org types should be discussed with the Steering Council prior to being carried out following the Schema.org development process, i.e. an issue should be raised on the Schema.org issue tracker and discussions carried out with the wider Schema.org community. 
 
-Adding Bioschemas types in the expected types of existing Schema.org types will be carried out on the inclusion of the Bioschemas type into the Schema.org vocabulary; see [Releasing a Type](#heading=h.yakcmtxgrkm6) for more details.  
+Adding Bioschemas types in the expected types of existing Schema.org types will be carried out on the inclusion of the Bioschemas type into the Schema.org vocabulary; see [Releasing a Type](#heading=h.yakcmtxgrkm6) for more details.
 
 #### Proposing a New Bioschemas Type
 
@@ -370,6 +374,11 @@ W3C Consortium Process Document: [https://www.w3.org/2019/Process-20190301/](htt
     <td>Version</td>
     <td>Date</td>
     <td>URL</td>
+  </tr>
+  <tr>
+    <td>0.6</td>
+    <td>2020-03-24</td>
+    <td>https://github.com/BioSchemas/governance/blob/v0.6-draft/governance.md</td>
   </tr>
   <tr>
     <td>0.5</td>
