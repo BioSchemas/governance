@@ -203,11 +203,13 @@ The development of a specification should be a collaborative effort engaging wit
 
 ### Specification Versioning
 
-A specification version number consists of the following parts, with hyphens between the parts:
+A specification version number consists of:
 
-`<major-number>.<minor-number>-[DRAFT|RELEASE]-<yyyy>_<mm>_<dd>`
+`<major-number>.<minor-number>-[DRAFT|RELEASE]`
 
-Each time a specification (profile or type) is published to the Bioschemas website, it must have a unique version number, a designation of whether it is a draft or release version, and the date of the version is published encoded as the four digit year, underscore, two digit month, underscore, two digit day. 
+Each time a specification (profile or type) is published to the Bioschemas website, it must have a unique version number and a designation of whether it is a draft or release version[^*].
+
+[^*]: Note that prior to 2021 some version numbers included the date that they were published. This was due to multiple revisions being given the same version number. This practice is no longer used.
 
 Release versions of a specification will increment the major number and reset the minor number to 0, i.e. the first time a specification is released it will get the number 1.0, the next release will be designated 2.0, and so on. Note that some releases prior to 1 January 2020 do not follow this convention but are compatible with it.
 
