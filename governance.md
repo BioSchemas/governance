@@ -293,6 +293,19 @@ When a working group decides that their draft profile meets these requirements, 
 
 After any issues raised by the Bioschemas community have been addressed, the Steering Council will vote to decide whether to accept the profile for release. If successful, the relevant metadata about the profile status and version number are updated, and the profile published to the release section of the Bioschemas website on the [profiles page](http://bioschemas.org/profiles/), with a release version identifier, i.e. the 0.8-DRAFT would become 1.0 or 1.4-DRAFT would become 2.0.
 
+#### Minor Fix to Released Profile
+
+Subject to a majority vote by the Steering Council, they can choose to apply a minor fix to the most recent released version of a profile. This can only be done when:
+- the release is the most recent version of the profile (i.e. there is no subsequent draft version);
+- the change is of a minor nature (e.g. fixing a typo, refining a definition, or adding a missing cardinality - this is not an exhaustive list);
+- and the change would not cause an existing deployment to no longer be valid.
+
+Releases that do not satisfy these criteria should have the changes made in the standard way and be included in the next release of the profile.
+
+The preparation of the minor fix should be done by the working group but does not need to go through a draft release version. It also does not need to go out for community consultation.
+
+Such a release would be given the next minor revision number but with a `RELEASE` designation. For example, a `1.0-RELEASE` would become a `1.1-RELEASE`.
+
 ### Type Development
 
 The development of a type follows the procedures of the [Schema.org](schema.org) community. 
