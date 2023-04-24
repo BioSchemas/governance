@@ -291,6 +291,8 @@ To satisfy the Steering Council a profile must minimally have:
 
 * A section in the Bioschemas training materials for deploying markup of the profile updated to the latest release. 
 
+A checklist to be used on new release Pull Requests is available at .github/PULL_REQUEST_TEMPLATE/profile-release-PR-template.md (source code of the Bioschemas website).
+
 When a working group decides that their draft profile meets these requirements, the Working Group Leads shall inform the Steering Council Operation Manager to have the draft profile made into a release. The Operation Manager will ensure that the profile meets the criteria for being released and inform the wider Bioschemas community through the mailing list of the desire to release the profile. The community will be given 2 weeks to comment on the profile.
 
 After any issues raised by the Bioschemas community have been addressed, the Steering Council will vote to decide whether to accept the profile for release. If successful, the relevant metadata about the profile status and version number are updated, and the profile published to the release section of the Bioschemas website on the [profiles page](http://bioschemas.org/profiles/), with a release version identifier, i.e. the 0.8-DRAFT would become 1.0 or 1.4-DRAFT would become 2.0.
