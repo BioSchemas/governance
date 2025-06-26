@@ -149,13 +149,13 @@ See the [Role Holder Section](#heading=h.n3000j53zrj0) for the processes to add 
 
 ### Creation of a Working Group
 
-A Working Group may be established when a group of individuals identify a perceived need for consuming mark up for a Life Sciences resource that is not satisfied using existing Bioschemas profiles. 
+A Working Group may be established when a group of individuals identify a perceived need for generating or consuming mark up for a Life Sciences resource that is not satisfied using existing Bioschemas profiles. 
 
 The creation of a working group needs to be approved by the Steering Council. The proposal of a working group must:
 
 * Identify group members and working group lead(s);
 
-* Define the objectives for the working group;
+* Define the objectives for the working group which may be just to provide guidance on how to use an existing type/profile for a particular community);
 
 * Define at least one use case for the consumption of the markup;
 
@@ -163,6 +163,7 @@ The creation of a working group needs to be approved by the Steering Council. Th
 
 * Complete the group creation form.
 
+For questions relating to the scope of a proposed Working Group, please use the mailing list, or ask at the regular Bioschemas Community call [https://bit.ly.joinbioschemas]. 
 
 Working Group Lead(s) are agreed upon by the members of the working group using the processes defined in the [Role Holder Section](#heading=h.n3000j53zrj0).
 
