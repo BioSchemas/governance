@@ -1,19 +1,24 @@
 # Bioschemas Governance
 
-**Status:** 1.0 (Released) 
+**Status:** 1.1 (Released) 
 
-**Contributors:**
+**Contributors (version 1.1):**
+
+* Leyla Castro, ZB MED Information Centre for Life Sciences, Germany
+* Alban Gaignard, Nantes Université, CNRS, INSERM, l’Institut du Thorax, France
+* Nick Juty, The University of Manchester, Manchester, UK
+* Phil Reed, The University of Manchester, Manchester, UK
+* Gabriel Schneider, ZB MED Information Centre for Life Sciences, Germany
+* Helena Schnitzer, Forschungszentrum Jülich GmbH, Germany
+* Ginger Tseung, Scripps Research Institute, San Diego, USA
+
+**Contributors (version 1.0):**
 
 * Alasdair Gray, Heriot-Watt University, Edinburgh, UK
-
 * Leyla Garcia, ZB MED Information Centre for Life Sciences, Germany
-
 * Carole Goble, University of Manchester, Manchester, UK
-
 * Nick Juty, University of Manchester, Manchester, UK
-
 * Sirarat Sarntivijai, ELIXIR-Hub, UK
-
 * Sarala Wimalaratne, DataCite, Germany
 
 **Table of Contents**
@@ -125,7 +130,10 @@ See the [Role Holder Section](#heading=h.n3000j53zrj0) for the processes to add 
 
 ## Community and Working Groups
 
-The community conducts the day-to-day activities for Bioschemas, namely, profile and type development and adoption according to the processes defined by the Bioschemas Community (see [Specification Development](#heading=h.jwagq5rseict)). This community work is split across working groups, each with a specific focus and each led by two individuals from the community. Working groups are a group of individuals who coalesce around an identified need to exploit Bioschemas markup. The working group establishes markup practices for a particular concept, e.g. Gene or Protein, under the umbrella Bioschemas community. The Working Group Leads are agreed upon by the members of that particular group of individuals. Each working group prepares releases of the profiles and types under its remit for the approval of the Steering Council.
+The community conducts the day-to-day activities for Bioschemas, namely, profile and type development and adoption according to the processes defined by the Bioschemas Community (see [Specification Development](#heading=h.jwagq5rseict)). 
+This community work is split across working groups, each with a specific focus and each led by one or more individuals from the community. 
+Working groups are a group of individuals who coalesce around an identified need to exploit Bioschemas markup. The working group establishes markup practices for a particular concept, e.g. Gene or Protein, under the umbrella Bioschemas community. 
+The Working Group Leads are agreed upon by the members of that particular group of individuals. Each working group prepares releases of the profiles and types under its remit for the approval of the Steering Council.
 
 Voting on issues in a Working Group will be carried with a simple majority of those members present. In the case of an even split, the Working Group Leads will have a casting vote. If this does not resolve the issue then it should be raised to the Steering Council.
 
@@ -145,13 +153,18 @@ A Working Group may be established when a group of individuals identify a percei
 
 The creation of a working group needs to be approved by the Steering Council. The proposal of a working group must:
 
-* Define the use cases for the consumption of the markup;
+* Identify group members and working group lead(s);
 
-* Propose the profiles that they would develop to satisfy the use cases, including the Schema.org types to be extended or developed;
+* Define the objectives for the working group;
 
-* Identify group members and provisional working group leads.
+* Define at least one use case for the consumption of the markup;
 
-Working Group Leads are agreed upon by the members of the working group using the processes defined in the [Role Holder Section](#heading=h.n3000j53zrj0).
+* Propose the (new) [types or profiles](https://bioschemas.org/tutorials/what_why_bioschemas#types-profiles) that they would develop to satisfy the use case(s);
+
+* Complete the group creation form.
+
+
+Working Group Lead(s) are agreed upon by the members of the working group using the processes defined in the [Role Holder Section](#heading=h.n3000j53zrj0).
 
 ### Hibernation of a Working Group
 
@@ -389,6 +402,16 @@ W3C Consortium Process Document: [https://www.w3.org/2019/Process-20190301/](htt
     <td>Version</td>
     <td>Date</td>
     <td>URL</td>
+  </tr>
+  <tr>
+    <td>1.1</td>
+    <td>2025-06-26</td>
+    <td>https://github.com/BioSchemas/governance/blob/v1.1/governance.md</td>
+  </tr>
+  <tr>
+    <td>1.0</td>
+    <td>2020-05-24</td>
+    <td>https://github.com/BioSchemas/governance/blob/v1.0/governance.md</td>
   </tr>
   <tr>
     <td>0.6</td>
